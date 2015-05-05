@@ -2,5 +2,6 @@ import java.util.Scanner;
 import java.util.Random;
 public class matrix_Fighting_Code
   {
-  hi
-  }
+  public static void main(String[] args)
+    { 
+    
