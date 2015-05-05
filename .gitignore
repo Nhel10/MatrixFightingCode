@@ -1,7 +1,0 @@
-import java.util.Scanner;
-import java.util.Random;
-public class matrix_Fighting_Code
-  {
-  public static void main(String[] args)
-    { 
-    
